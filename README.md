@@ -1,3 +1,3 @@
 # PowerBi_Project
 
-Power Bi Project to improve employee performance and to reduce attrition by creating  HR Analytics Dashboard.
+Developed an HR Analytics Dashboard using Power BI to identify trends and factors contributing to employee performance and attrition. 
